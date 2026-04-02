@@ -196,7 +196,6 @@ export default function StationScanPage() {
           {successMessage}
         </div>
       )}
-
       <div className="pt-24 w-full min-h-[calc(100vh-96px)] flex flex-col items-center">
         <div className="w-full max-w-4xl flex-1 flex flex-col items-center justify-center relative">
           {student ? (
